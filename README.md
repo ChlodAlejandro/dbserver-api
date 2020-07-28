@@ -9,5 +9,7 @@ These are the remnants of said project. Feel free to look around, or revive the 
 
 # Copyright
 Copyright © 2020. All Rights of the PSHS-CVC DBServer Reserved by the PSHS-CVC Administration and CST Divison.
+
 Copyright © 2020. The DBServer API is released under the Apache 2.0 License by Chlod Aidan Alejandro. See LICENSE.md for more details.
+
 The DBServer API is in no way affiliated, partnered, or made in conjuction with the PSHS-CVC DBServer.
