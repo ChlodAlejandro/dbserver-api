@@ -1,0 +1,37 @@
+{
+  "name": "dbserver-api",
+  "version": "0.0.1",
+  "description": "The unofficial student-made API for the PSHS-CVC DBServer.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "await": "^0.2.6",
+    "axios": "^0.19.2",
+    "axios-cookiejar-support": "^0.5.1",
+    "bcrypt": "^5.0.0",
+    "better-sqlite3": "^7.1.0",
+    "chance": "^1.1.6",
+    "cheerio": "^0.22.0",
+    "console-stamp": "^0.2.9",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-useragent": "^1.0.12",
+    "fs-jetpack": "^2.4.0",
+    "log-timestamp": "^0.3.0",
+    "readline-promise": "^1.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "sane": "^4.1.0",
+    "sqlite3": "^4.2.0",
+    "tough-cookie": "^3.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "AGPL-3.0-only"
+}

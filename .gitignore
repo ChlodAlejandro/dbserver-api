@@ -1,0 +1,27 @@
+# service file
+dbserver-api.service
+
+# shell files
+*.sh
+
+# node and npm
+node_modules/
+
+# data and logs
+.env
+.data
+.logs
+logs
+
+# tests
+tests/
+
+# phpstorm
+.idea
+
+# ssl certs
+ssl/
+
+# legacy files and ignored modules
+modules/.ignored/*
+modules/mod_leg*.js
